@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Juan Carlos
 
-<!--
-**JuanCa-1717/JuanCa-1717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante en el **COVAO**, Costa Rica  
+💻 Apasionado por la programación, el desarrollo de software y las buenas prácticas en ingeniería de software.  
+🌱 Siempre aprendiendo nuevas tecnologías y herramientas para mejorar como desarrollador.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Lenguajes de Programación
+- **Python**
+- **C++**
+- **Java**
+- **C#**
+- **SQL**
+- **JavaScript**
+
+---
+
+## 🛠️ Tecnologías y Frameworks
+- **Javax Swing**  
+- **Windows Forms**  
+- **.NET y .NET Core (MVC)**  
+- **Entity Framework**  
+- **MySQL**  
+- **SQL Server**
+
+---
+
+## 🧰 Herramientas y Otras Tecnologías
+- **Visual Studio**  
+- **Git & GitHub**  
+- **PHPMyAdmin**  
+- **HTML5 & CSS3**  
+- **Bootstrap**  
+- **SCRUM**  
+- **UML**
+
+---
+
+## 🚀 En qué estoy trabajando
+Actualmente me enfoco en proyectos académicos y personales que me permitan fortalecer mis habilidades en el desarrollo full-stack y la arquitectura de software.
+
+---
+
+## 📫 Cómo contactarme
+Puedes escribirme aquí en GitHub o buscarme en redes profesionales. ¡Estoy abierto a colaborar en proyectos interesantes!
+
+---
+
+¡Gracias por visitar mi perfil! 😊
