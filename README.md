@@ -43,7 +43,7 @@ Actualmente me enfoco en proyectos académicos y personales que me permitan fort
 ---
 
 ## 📫 Cómo contactarme
-Puedes escribirme aquí en GitHub o buscarme en redes profesionales. ¡Estoy abierto a colaborar en proyectos interesantes!
+Puedes escribirme aquí en GitHub. ¡Estoy abierto a colaborar en proyectos interesantes!
 
 ---
 
