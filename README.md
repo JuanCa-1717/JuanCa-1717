@@ -104,7 +104,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JuanCa-1717/JuanCa-1717/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JuanCa-1717/JuanCa-1717/output/snake.svg" alt="" />
 
 ###
 
