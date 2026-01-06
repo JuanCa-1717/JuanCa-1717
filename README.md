@@ -1,85 +1,96 @@
-<h2 align="left">Hi 👋! My name is Juan Carlos and I'm a Web & AI Developer from Costa Rica</h2>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JuanCa-1717&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanCa-1717&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> </div>
-🧑‍💻 About me
-🔭 Desarrollador Web & AI con enfoque en ASP.NET MVC, JavaScript, Python y TypeScript
-​
+<h1 align="left">Hey 👋 What's up?</h1>
 
-🧠 Apasionado por soluciones innovadoras de inteligencia artificial, redes y desarrollo web adaptable
-​
+###
 
-🎯 Experiencia en optimización de contenido, análisis web y diseño UX/UI con metodologías ágiles (Scrum)
-​
+<p align="left">My name is Juan Carlos and I'm a Web Developer, from Costa Rica</p>
 
-🌎 Desde San Isidro, Tejar, Cartago, Costa Rica
-​
+###
 
-🛠 Tech Stack (Lenguajes y herramientas principales)
-<div align="left"> <!-- Lenguajes --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> <img width="12" /> <!-- Web base --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" /> <img width="12" /> <!-- Frameworks & Tools --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" /> </div>
-🔧 ASP.NET MVC, ASP.NET Web API, desarrollo back end y diseño web adaptable
-​
+<h2 align="left">About me</h2>
 
-🧩 Bases de datos: SQL y MySQL, integración con aplicaciones web MVC
-​
+###
 
-🎨 UX/UI y prototipado con Figma, diseño centrado en el usuario
-​
+<p align="left">🔭 Desarrollador Web & AI con enfoque en ASP.NET MVC, JavaScript, Python y TypeScript<br>🧠 Apasionado por soluciones innovadoras de inteligencia artificial, redes y desarrollo web adaptable<br>🎯 Experiencia en optimización de contenido, análisis web y diseño UX/UI con metodologías ágiles (Scrum)</p>
 
-🤖 AI & Data
-🧬 Experiencia con Machine Learning Pipelines usando Azure ML Studio
-​
+###
 
-🔥 Deep Learning con PyTorch, incluyendo redes generativas adversariales (GAN)
-​
+<h2 align="left">Tech Stack</h2>
 
-🧠 Redes neuronales convolucionales (CNN) y trabajo con TensorFlow y Azure Machine Learning
-​
+###
 
-💬 Desarrollo de inteligencia artificial conversacional y chatbots
-​
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+</div>
 
-📜 Certifications
-🎓 AI Literacy (IBM) – oct. 2025
-​
+###
 
-🎓 Artificial Intelligence Fundamentals (IBM) – oct. 2025
-​
+<div align="left">
+  <a href="https://www.linkedin.com/in/juan-carlos-mond/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="discordapp.com/users/juan057207_05337" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
-🎓 Deep Learning with PyTorch (Coursera) – oct. 2025
-​
+###
 
-🎓 Machine Learning Pipelines with Azure ML Studio (Coursera) – oct. 2025
-​
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-🌐 Build a free website with WordPress (Coursera) – oct. 2025
-​
-
-🌐 CCNA: Introduction to Networks (Cisco) – feb. 2025
-​
-
-🏅 Scrum Fundamentals with AI Certified (SFC) – mar. 2024
-​
-
-🧩 Projects
-🌐 Desarrollo de software web con MVC y ASP.NET Razor, integrando MySQL y funcionalidades optimizadas para distintos dispositivos
-​
-
-🗣 Languages
-🇪🇸 Español: Nativo
-​
-
-🇬🇧 Inglés: Nivel B1
-​
-
-💡 Soft Skills
-🤝 Comunicación efectiva y trabajo en equipo
-​
-
-🧩 Resolución de problemas y adaptabilidad
-​
-
-📚 Enfoque autodidacta y aprendizaje continuo
-​
-
-<div align="left"> <a href="mailto:juancarlos305770811@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /> </a> <a href="https://www.linkedin.com/in/juan-carlos-mondragón-garcía-084632292/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a> <a href="https://discordapp.com/users/juan057207_05337" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /> </a> </div>
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+###
