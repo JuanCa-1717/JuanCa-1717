@@ -130,31 +130,6 @@ My name is **Juan Carlos**, and I'm a **Web & AI Developer** from **Costa Rica �
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JuanCa-1717&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCa-1717&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanCa-1717&theme=github-compact"/>
-</p>
-
----
-
-## 🐍 Contributions
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/JuanCa-1717/JuanCa-1717/output/snake.svg"/>
-</p>
-
----
-
 <div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt"/>
 </div>
