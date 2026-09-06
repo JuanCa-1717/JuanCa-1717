@@ -46,6 +46,8 @@ My name is **Juan Carlos**, and I'm a **Web & AI Developer** from **Costa Rica ð
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42"/>
 <img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42"/>
+<img width="10"/>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg](https://upload.wikimedia.org/wikipedia/commons/8/87/127-1276589_rust-programming-language-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20230616075658)" height="42"/>
 </p>
 
 ---
@@ -86,7 +88,6 @@ My name is **Juan Carlos**, and I'm a **Web & AI Developer** from **Costa Rica ð
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42"/>
 <img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg](https://commons.wikimedia.org/wiki/File:Rust_programming_language_black_logo.svg" height="42"/>
 </p>
 
 ---
