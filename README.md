@@ -2,29 +2,36 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt"/>
 </div>
 
-# Hey 👋 What's up?
+# Hey, I'm Juan Carlos
 
-My name is **Juan Carlos**, and I'm a **Web & AI Developer** from **Costa Rica 🇨🇷**.
+**AI/ML & Software Developer** from **Costa Rica**.
 
----
-
-## 🚀 About Me
-
-🔭 Web & AI Developer with experience building modern web applications and AI-powered systems.
-
-🧠 Specialized in ASP.NET MVC, JavaScript, TypeScript, Python, C#, C++, Java, Deep Learning, Computer Vision and Machine Learning.
-
-🎯 Experience with responsive web development, cloud services, SQL/NoSQL databases, UX/UI design, AI pipelines, Git, Scrum and networking.
-
-💬 Languages:
-- 🇪🇸 Spanish (Native)
-- 🇺🇸 English (B1)
-
-🚀 Passionate about creating innovative software, AI solutions and scalable applications.
+Interested in building and understanding intelligent systems — from model architectures and inference to the software and infrastructure that surrounds them.
 
 ---
 
-# 🛠 Tech Stack
+## > About Me
+
+- Currently focused on **Artificial Intelligence, Machine Learning and AI Systems**, with a growing interest in efficient inference, model architectures and low-level optimization.
+
+- Exploring areas such as **LLMs, Computer Vision, Deep Learning, RAG, AI agents, quantization, inference runtimes and predictive architectures**.
+
+- Interested in the intersection between **AI research and systems**, including how models are trained, executed, optimized and integrated into real-world software.
+
+- I enjoy working across abstraction levels — from **Python and PyTorch experiments** to backend systems and lower-level development with **C++, Rust and systems tooling**.
+
+- Experienced in building **full-stack applications, APIs, databases, AI-powered systems and cloud-based solutions**.
+
+- Currently experimenting with AI/ML architectures, inference optimization and developer tooling while continuously exploring new approaches to building more efficient intelligent systems.
+
+### Languages
+
+- Spanish — Native
+- English — B1
+
+---
+
+# // Tech Stack
 
 ### Languages
 
@@ -133,5 +140,5 @@ My name is **Juan Carlos**, and I'm a **Web & AI Developer** from **Costa Rica �
 ---
 
 <div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt"/>
 </div>
