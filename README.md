@@ -47,7 +47,7 @@ My name is **Juan Carlos**, and I'm a **Web & AI Developer** from **Costa Rica ð
 <img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42"/>
 <img width="10"/>
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg](https://upload.wikimedia.org/wikipedia/commons/8/87/127-1276589_rust-programming-language-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20230616075658)" height="42"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/rust-logo-png-transparent.png" height="42"/>
 </p>
 
 ---
