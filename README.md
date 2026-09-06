@@ -86,6 +86,7 @@ My name is **Juan Carlos**, and I'm a **Web & AI Developer** from **Costa Rica ð
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42"/>
 <img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg](https://commons.wikimedia.org/wiki/File:Rust_programming_language_black_logo.svg" height="42"/>
 </p>
 
 ---
