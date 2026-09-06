@@ -68,6 +68,8 @@ My name is **Juan Carlos**, and I'm a **Web & AI Developer** from **Costa Rica ð
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42"/>
 <img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="42"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42"/>
 </p>
 
 ---
@@ -126,8 +128,6 @@ My name is **Juan Carlos**, and I'm a **Web & AI Developer** from **Costa Rica ð
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="42"/>
 <img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="42"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42"/>
 </p>
 
 ---
